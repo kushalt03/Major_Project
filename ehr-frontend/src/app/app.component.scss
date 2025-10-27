@@ -1,0 +1,28 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+  background: #f6f9fc;
+  min-height: 100vh;
+  font-family: "Poppins", sans-serif;
+}
+
+.title {
+  color: #1a73e8;
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.app-container {
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+
+  h1 {
+    color: #2c3e50;
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+}
+

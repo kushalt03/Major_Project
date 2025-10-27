@@ -1,0 +1,15 @@
+node_modules
+.angular# Node & Angular
+node_modules/
+ehr-frontend/node_modules/
+
+# Java / Spring Boot
+target/
+
+# OS / IDE files
+*.log
+*.class
+*.iml
+/.idea/
+/.vscode/
+/.DS_Store
